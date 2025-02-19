@@ -10,7 +10,8 @@ I am passionate about software development, cloud computing, and big data. Curre
 ### My Experience  
 - 🔹 **Software Developer Intern at DIY** (Sept 2021 - Nov 2021)  
 - 🔹 Worked on **Recipe Finder & Grocery List Web App** with Spoonacular API  
-- 🔹 Implemented **Yelp API** integration for a restaurant finder application  
+- 🔹 Implemented **Yelp API** integration for a restaurant finder application
+- 🔹 Worked and build **JobBhartee.com** 
 
 ### My Values  
 👐 Collaboration makes teams stronger  
