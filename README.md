@@ -27,6 +27,6 @@ I am passionate about software development, cloud computing, and big data. Curre
 💡 Always eager to learn and explore new technologies  
 
 ### Let's Connect!  
-📧 **Email:** nmhatre430@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/nishank-mhatre](https://www.linkedin.com/in/nishank-mhatre/)
-🌐 **Portfolio:** [nishank-mhatre.vercel.app](https://nishank-mhatre.vercel.app/)
+* 📧 **Email:** [nmhatre430@gmail.com](mailto:nmhatre430@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/nishank-mhatre](https://www.linkedin.com/in/nishank-mhatre/)
+* 🌐 **Portfolio:** [nishank-mhatre.vercel.app](https://nishank-mhatre.vercel.app/)
