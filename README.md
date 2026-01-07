@@ -2,7 +2,7 @@
 👨‍💻 Master's Student in Computer Science | University of Texas at Arlington  
 
 ### Tech Stack  
-Python | Java | JavaScript | C++ | React | Django | SQL | MongoDB | AWS | Docker  
+Python | Java | JavaScript | C++ | React | Django | SQL | MongoDB | AWS | Docker | AI & Cloud
 
 ### About Me  
 I am passionate about software development, cloud computing, and big data. Currently pursuing my Master's in Computer Science, I enjoy building scalable applications, exploring distributed systems, and enhancing user experiences with full-stack technologies.  
