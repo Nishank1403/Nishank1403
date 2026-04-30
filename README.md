@@ -9,7 +9,7 @@ I am passionate about software development, cloud computing, and big data. Curre
 
 ### My Experience  
 - 🔹 **Software Developer Intern at DIY** (Sept 2021 - Nov 2021)
-- 🔹 **AI Data Pipeline**: Built an end-to-end system processing **2.2M+ records** using **Python & Groq (Llama 3.3)** for automated  narrative generation  
+- 🔹 **AI Data Pipeline**: Built an end-to-end system processing **2.2M+ records** using **Python & Groq (Llama 3.3)** for automated     narrative generation  
 - 🔹 Worked on **Recipe Finder & Grocery List Web App** with Spoonacular API  
 - 🔹 Implemented **Yelp API** integration for a restaurant finder application
 - 🔹 Worked and build **JobBhartee.com**
