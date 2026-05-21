@@ -5,7 +5,7 @@
 Python | Java | JavaScript | C++ | React | Django | SQL | MongoDB | AWS | Docker | AI & Cloud
 
 ### About Me  
-I am passionate about software development, cloud computing, and big data. Currently pursuing my Master's in Computer Science, I enjoy building scalable applications, exploring distributed systems, and enhancing user experiences with full-stack technologies.  
+I am passionate about Software Development, cloud computing, AI-driven TECHNOLOGIES, and big data. Master's in Computer Science graduate, I enjoy building scalable applications, exploring distributed systems, and enhancing user experiences with full-stack technologies.  
 
 ### My Experience  
 - 🔹 **Software Developer Intern at DIY** (Sept 2021 - Nov 2021)
@@ -13,7 +13,9 @@ I am passionate about software development, cloud computing, and big data. Curre
 - 🔹 Worked on **Recipe Finder & Grocery List Web App** with Spoonacular API  
 - 🔹 Implemented **Yelp API** integration for a restaurant finder application
 - 🔹 Worked and build **JobBhartee.com**
-- 🔹 Developed a **Movie Finder** with **React** and **TMDB API**  
+- 🔹 Developed a **Movie Finder** with **React** and **TMDB API**
+
+- 🔹 **Graduate Research Assistant at University of Texas at Arlington** (Jun 2025 - Present)   
 
 ### Professional Certifications
 - 🔹Oracle - **Cloud Infrastructure 2025 AI Foundations Associate	Oracle** (Oct 2025)
