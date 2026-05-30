@@ -20,6 +20,7 @@ I am passionate about Software Development, cloud computing, AI-driven TECHNOLOG
 
 ### Professional Certifications
 - 🔹Oracle - **Cloud Infrastructure 2025 AI Foundations Associate	Oracle** (Oct 2025)
+- 🔹Google- **AI Fundamentals** (May 2026)
 - 🔹Amazon - **Programming with Java** (Aug 2025)
 - 🔹Amazon - **Introduction to Software Development**	(May 2025)
 - 🔹OneRoadmap - **Full Stack Certification**	(Mar 2025)
