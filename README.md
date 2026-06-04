@@ -5,7 +5,7 @@
 Python | Java | JavaScript | C++ | React | Django | SQL | MongoDB | AWS | Docker | AI & Cloud
 
 ### About Me  
-I am passionate about Software Development, cloud computing, AI-driven Technologies, and big data. Master's in Computer Science graduate, I enjoy building scalable applications, exploring distributed systems, and enhancing user experiences with full-stack technologies.  
+I am passionate about Software Development, cloud computing, AI-driven Technologies, and big data. Master's in Computer Science graduate, I enjoy building scalable applications, exploring distributed systems, and enhancing user experiences with full-stack technologies. Experienced in integrating Generative AI capabilities, including production-ready RAG pipelines and LLM workflows, to optimize product engineering. 
 
 ### My Experience  
 #### Software Developer Intern at DIY (Sept 2021 - Nov 2021)
